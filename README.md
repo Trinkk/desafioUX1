@@ -20,4 +20,4 @@ Ferramentas Utilizadas
 Estrutura do Repositório
  
     README.md: Este arquivo, que fornece uma visão geral do projeto e instruções para visualização.
-    /wireframes: Contém os arquivos do wireframe em formatos editáveis (Figma) e exportados (PNG, PDF).
+    /wireframes: Contém os arquivos do wireframe em formatos editáveis (Figma) e exportados (PDF).
